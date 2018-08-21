@@ -3,4 +3,4 @@
 %uri=https://github.com/laanito/tribe
 
 schemas 2018-08-20T14:51:23Z Luis Amigo <lamigo@praderas.org> # Create app schemas
-abuseinput 2018-08-20T19:31:59Z Vagrant Default User,,, <vagrant@postgrest> # Add table for data input
+abuseinput [schemas] 2018-08-20T19:31:59Z Vagrant Default User,,, <vagrant@postgrest> # Add table for data input
