@@ -2,6 +2,6 @@
 
 BEGIN;
 
--- XXX Add DDLs here.
+DROP TABLE source.fail2ban_event;
 
 COMMIT;
