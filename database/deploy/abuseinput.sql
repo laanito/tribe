@@ -1,4 +1,5 @@
 -- Deploy abusedb:abuseinput to pg
+-- requires: schemas
 
 BEGIN;
 
