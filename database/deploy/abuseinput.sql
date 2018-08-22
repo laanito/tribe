@@ -3,7 +3,7 @@
 
 BEGIN;
 
-CREATE TABLE source.fail2ban_event (
+CREATE TABLE source.fail2banevent (
   id SERIAL PRIMARY KEY,
   date TIMESTAMP,
   submit_date TIMESTAMP,

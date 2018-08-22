@@ -2,6 +2,6 @@
 
 BEGIN;
 
-DROP TABLE source.fail2ban_event;
+DROP TABLE source.fail2banevent;
 
 COMMIT;
